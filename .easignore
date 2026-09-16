@@ -1,0 +1,8 @@
+# Keep the EAS upload small (parent Desktop git repo is huge)
+node_modules
+.expo
+dist
+web-build
+**/*.log
+.git
+../
